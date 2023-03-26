@@ -1,0 +1,19 @@
+{
+    "name": "wspras/starter",
+    "description": "Awal dari Project Composer",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Wspras\\Starter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wspras",
+            "email": "wspras@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
