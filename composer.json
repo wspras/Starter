@@ -11,12 +11,10 @@
     },
     "authors": [
         {
-            "name": "wspras",
+            "name": "Widayat S Prasetiyo",
             "email": "wspras@gmail.com"
         }
     ],
     "minimum-stability": "stable",
-    "require": {
-         "php": ">=7.4.0"
-    }
+    "require": { }
 }
