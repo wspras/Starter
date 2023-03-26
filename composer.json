@@ -2,6 +2,7 @@
     "name": "wspras/starter",
     "description": "Awal dari Project Composer",
     "type": "project",
+    "homepage": "https://github.com/wspras/Starter",
     "license": "MIT",
     "autoload": {
         "psr-4": {
@@ -15,5 +16,7 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {}
+    "require": {
+         "php": ">=7.4.0"
+    }
 }
